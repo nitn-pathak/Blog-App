@@ -49,7 +49,7 @@ function App() {
   
   
   return (
-    <div className="App bg-orange-300">
+    <div className="App">
         
       {/* <Home>
 

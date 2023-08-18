@@ -21,11 +21,12 @@ const Categorypage = () => {
       <Header/>
 
       
-      <div className=' text-white '>
+      <div className=' text-white  '>
         
-       <button className='bg-black px-7 py-4 rounded-lg mt-20 ml-16  ' onClick={() => navigation(-1)} >
+       <button className='bg-black px-7 py-4 rounded-lg mt-20 ml-2  ' onClick={() => navigation(-1)} >
+        
           <div className='flex justify-center items-center '>
-            <img src={left} className='h-[11px]' alt="back" />  Back
+            <img src={left} loading='lazy' className='h-[11px]' alt="back" />  Back
             </div>
           </button>  
       

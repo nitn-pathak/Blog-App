@@ -45,14 +45,14 @@ const BlogDetails = ({ post }) => {
   return (
     
 
-    <div>
-      <div className='flex bg-orange-300 overflow-x-hidden   ' >
+    <div className=''>
+      <div className='flex overflow-x-hidden  my-16  ' >
       
-        <div className=' bg-stone-500 rounded-lg   box-border  overflow-x-hidden overflow-hidden my-20  mx-16  '>
+        <div className=' bg-stone-500 rounded-lg   box-border  overflow-x-hidden overflow-hidden my-5  mx-2  '>
 
         
         
-          <div className='flex gap-3 flex-wrap justify-center  mx-10 my-10 ' >
+          <div className='flex gap-3 flex-wrap justify-center  mx-2 my-3 ' >
         
           
             <div>

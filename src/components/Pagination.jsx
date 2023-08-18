@@ -16,7 +16,7 @@ const Pagination = () => {
 
   return (
     
-      <div className='bg-red-300   relative z-0  top-12 '>
+      <div className='   relative z-0  top-12 '>
       
         <div className=' flex flex-row   items-center justify-center p-3 fixed bottom-0 bg-b w-[100vw]  bg-slate-800 '>
 
